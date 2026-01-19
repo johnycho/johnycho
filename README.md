@@ -8,7 +8,7 @@
 Here are some of the open source projects I have contributed to:
 
 - **[Spring Cloud Config](https://github.com/spring-cloud/spring-cloud-config)**
-  - [PR-3178](https://github.com/spring-cloud/spring-cloud-config/pull/3178)
+  - [Ensure property-defined Vault token is used when auth is TOKEN](https://github.com/spring-cloud/spring-cloud-config/pull/3178)
   - [Support resolving file content to Base64 via {file} prefix](https://github.com/spring-cloud/spring-cloud-config/pull/3179)
 
 - **[Spring Security](https://github.com/spring-projects/spring-security)**
