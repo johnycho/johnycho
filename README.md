@@ -8,8 +8,7 @@
 Here are some of the open source projects I have contributed to:
 
 - **Spring Cloud Config**
-  - Restored Vault authentication behavior in the 4.3.x branch  
-  - PR: https://github.com/spring-cloud/spring-cloud-config/pull/3175
+  - [spring-cloud/spring-cloud-config/pull/3178](https://github.com/spring-cloud/spring-cloud-config/pull/3178)
 
 - **Spring Security**
   - Improved serialization test handling  
