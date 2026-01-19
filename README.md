@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![stats](https://github-readme-stats.vercel.app/api?username=johnycho&show_icons=true)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=johnycho)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact)
 
 ## 🏆 Open Source Contributions
 
